@@ -12,3 +12,7 @@ To do this, you will need:
 
 **Power supply can be as small as 300mA if you plan to only do a shot timer. If you want to expand the functionality to include other features, you may want to consider something more powerful.
 
+Planned additions:
+ - Pressure transducer to display real time brew pressure.
+ - Water level sensor.
+ - LED underlight control.
